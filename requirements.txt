@@ -1,0 +1,13 @@
+diffusers
+accelerate
+fastapi
+pyngrok
+nest-asyncio
+transformers
+torch
+faster_whisper
+streamlit
+sounddevice
+scipy
+gtts
+pygame
